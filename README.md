@@ -1,4 +1,4 @@
-# lelegis-analytics
+# Vue3 Boilerplate
 
 ## Project setup
 ```
